@@ -1,3 +1,5 @@
+WEB DEVELOPMENT 
+
 1. To check the HTTP request and response in a browser, you need to use the built-in Developer Tools (DevTools) available in most modern browsers. Here’s how you can do it:
  
  Steps in Chrome (similar process for Firefox, Edge, Opera)
