@@ -35,6 +35,8 @@ Timing tab: Shows how long each step of the request took.
 Initiator tab: What caused the request.
 
 
+
+
 2. Here’s how to check your DNS server and IP address:
 
 On Windows
@@ -72,6 +74,8 @@ Check DNS Server
 In Terminal, type: nslookup google.com
 
 The “Server” and “Address” lines show your DNS server.
+
+
 
 
 3. To change your machine’s DNS (Domain Name System) settings, follow these steps depending on your operating system:
@@ -129,6 +133,7 @@ Click the “+” sign and add new DNS IP addresses.
 Save Settings:
 
 Click “OK” and “Apply”.
+
 
 
 
